@@ -10,12 +10,12 @@
 
 2. 如果是其它平台，请下载源代码，使用VS2010 导入MFC项目，自行编译，运行。
 
-3. 软件操作说明：[https://ff120.github.io/car/help/manual.pdf](https://ff120.github.io/car/help/manual.pdf)
+3. 软件操作说明：[https://fly-to-geng.github.io/license-recognition/help/manual.pdf](https://fly-to-geng.github.io/license-recognition/help/manual.pdf)
 
-4. 作品展示：[https://ff120.github.io/car](https://ff120.github.io/car)
+4. 作品展示：[https://fly-to-geng.github.io/license-recognition](https://fly-to-geng.github.io/license-recognition)
 
-5. 软件使用的测试视频：[https://ff120.github.io/car/video/index.html](https://ff120.github.io/car/video/index.html)
+5. 软件使用的测试视频：[https://fly-to-geng.github.io/license-recognition/video/index.html](https://fly-to-geng.github.io/license-recognition/video/index.html)
 
 # 联系我
-* email： gxf120406191@gmail.com
+* email： g120406191@hotmail.com
 * QQ: 565626763
